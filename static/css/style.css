@@ -1,0 +1,14 @@
+body{
+    background-color: blue;
+}
+header{
+    background-image: url(../just.jpg);
+    height: 30vh;
+    background-size: cover;
+    background-position: center;
+}
+ul{
+    float: right;
+    list-style-type: none;
+
+}
